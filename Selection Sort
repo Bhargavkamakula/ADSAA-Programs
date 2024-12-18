@@ -30,7 +30,7 @@ class Selection{
   }     
 } 
 
-Output:
+# Output:
 Enter the number of elements:
 5
 Enter the Elements:
